@@ -3,6 +3,7 @@ package urionline.iniciante;
 import java.util.Locale;
 import java.util.Scanner;
 
+//Uri 1002
 public class AreaDoCirculo {
 
 	public static void main(String[] args) {

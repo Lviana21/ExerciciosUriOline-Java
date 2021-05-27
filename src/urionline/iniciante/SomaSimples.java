@@ -2,8 +2,8 @@ package urionline.iniciante;
 
 import java.util.Scanner;
 
-//Uri 1001
-public class ExtremamenteBasico {
+//Uri 1003 
+public class SomaSimples {
 
 	public static void main(String[] args) {
 
@@ -11,10 +11,10 @@ public class ExtremamenteBasico {
 
 		int A = input.nextInt();
 		int B = input.nextInt();
-		int X = A + B;
+		int SOMA = A + B;
 
-		System.out.println("X = " + X);
-
+		System.out.println("SOMA = " + SOMA);
+		
 		input.close();
 
 	}
