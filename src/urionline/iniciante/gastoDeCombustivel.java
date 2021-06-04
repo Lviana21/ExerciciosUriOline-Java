@@ -22,6 +22,7 @@ O arquivo de entrada contém dois inteiros. O primeiro é o tempo gasto na viagem 
 SAÍDA
 Imprima a quantidade de litros necessária para realizar a viagem, com três dígitos após o ponto 
 decimal
+
 */
 
 public class gastoDeCombustivel {
