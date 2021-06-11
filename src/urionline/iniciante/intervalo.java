@@ -3,7 +3,7 @@ package urionline.iniciante;
 import java.util.Locale;
 import java.util.Scanner;
 /*
-#URI 1036 - FÓRMULA DE BHASKARA
+#URI 1037 - INTERVALO
 Você deve fazer um programa que leia um valor qualquer e apresente uma mensagem dizendo em 
 qual dos seguintes intervalos ([0,25], (25,50], (50,75], (75,100]) este valor se encontra. 
 Obviamente se o valor não estiver em nenhum destes intervalos, deverá ser impressa a mensagem 
@@ -18,7 +18,6 @@ O arquivo de entrada contém um número com ponto flutuante qualquer.
 
 SAÍDA
 A saída deve ser uma mensagem conforme exemplo abaixo.
-
 */
 
 public class intervalo {
