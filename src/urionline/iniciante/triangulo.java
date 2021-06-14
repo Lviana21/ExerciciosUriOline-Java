@@ -1,6 +1,5 @@
 package urionline.iniciante;
 
-import java.io.IOException;
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -21,7 +20,6 @@ A entrada contém três valores reais.
 
 SAÍDA
 O resultado deve ser apresentado com uma casa decimal.
-
 */
 
 public class triangulo {
@@ -36,7 +34,10 @@ public class triangulo {
 		double C = input.nextDouble();
 
 		/*
-		 * Validando se é um Triângulo A + B = ? > C A + C = ? > B B + C = ? > A
+		 * Validando se é um Triângulo:
+		 *  A + B = ? > C
+		 *  A + C = ? > B
+		 *  B + C = ? > A
 		 */
 
 		if ((A + B) > C && (A + C) > B && (B + C) > A) {
