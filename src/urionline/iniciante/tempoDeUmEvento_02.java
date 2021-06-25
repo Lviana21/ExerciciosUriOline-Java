@@ -1,6 +1,8 @@
 package urionline.iniciante;
 
 import java.util.Scanner;
+//##URI 1061 - TEMPO DE UM EVENTO SOLUÇÃO 02
+
 
 public class tempoDeUmEvento_02 {
 
