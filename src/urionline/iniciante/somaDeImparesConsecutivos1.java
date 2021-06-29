@@ -3,7 +3,7 @@ package urionline.iniciante;
 import java.util.Scanner;
 
 /*
-#URI 1071 - SOMA DE IMPARES CONSECUTIVOS
+#URI 1071 - SOMA DE IMPARES CONSECUTIVOS 1
 Leia 2 valores inteiros X e Y. A seguir, calcule e mostre a soma dos números
 impares entre eles.
 
