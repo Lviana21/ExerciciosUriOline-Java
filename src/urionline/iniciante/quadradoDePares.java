@@ -16,7 +16,6 @@ Imprima o quadrado de cada um dos valores pares, de 1 até N, conforme o exemplo 
 Tome cuidado! Algumas linguagens tem por padrão apresentarem como saída 1e+006 ao invés de
 1000000 o que ocasionará resposta errada. Neste caso, configure a precisão adequadamente para
 que isso não ocorra.
-
 */
 
 public class quadradoDePares {
