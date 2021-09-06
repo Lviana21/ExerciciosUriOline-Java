@@ -16,7 +16,6 @@ com todas as letras minúsculas.
 
 SAÍDA
 Imprima o nome do animal correspondente à entrada fornecida.
-
 */
 
 public class animal {
